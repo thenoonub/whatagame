@@ -1,1 +1,1 @@
-We're making a bunch of games to practice python :) 
+We're making a bunch of games to practice python!
